@@ -1,5 +1,6 @@
 **Flutter ToDo List App**
-A simple Flutter application for managing a to-do list, using GetX for state management and the MVVM (Model-View-ViewModel) architecture. This app allows users to add new tasks, mark them as complete, and view a list of tasks.
+
+- A simple Flutter application for managing a to-do list, using GetX for state management and the MVVM (Model-View-ViewModel) architecture. This app allows users to add new tasks, mark them as complete, and view a list of tasks.
 
 **Features**
 - **Add New Tasks:** Users can add tasks with a title.
